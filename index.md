@@ -14,7 +14,7 @@ March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://med
 April 2020: [Emulator of LS8 CPU in Python](https://https://github.com/lineality/ls8_emulator)  
 
 ## Articles
-February 2020: [Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
+February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
 
 ## Contact
 [Email](mailto:geoffreygordonashbrook@gmail.com) \| [Twitter](https://twitter.com/GG_Ashbrook) \| [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  
