@@ -9,12 +9,12 @@ I am currently studing Data Science at [Lambda School](https://lambdaschool.com/
 [Geoffrey Gordon Ashbrook](https://medium.com/@GeoffreyGordonAshbrook/)  
 
 ## Projects
-September 2018: [Medicine and Symptom Prediction Machine Learning](https://github.com/MedCabinet)  
-March 2019: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
+January 2020: [Medicine and Symptom Prediction Machine Learning](https://github.com/MedCabinet)  
+March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
 April 2020: [Emulator of LS8 CPU in Python](https://https://github.com/lineality/ls8_emulator)  
 
 ## Articles
-September 2018: [Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
+February 2020: [Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
 
 ## Contact
 [Email](mailto:geoffreygordonashbrook@gmail.com) \| [Twitter](https://twitter.com/GG_Ashbrook) \| [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  
