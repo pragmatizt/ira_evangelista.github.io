@@ -1,6 +1,6 @@
 # Geoffrey Gordon Ashbrook
 
-<img src="geoffrey_gordon_ashbrook_round.jpg" alt="Geoffrey Gordon Ashbrook">
+<img src="geoffrey_gordon_ashbrook_round.png" alt="Geoffrey Gordon Ashbrook">
 
 I am a data scientist, fiddle player and flute maker from Bala Cynwyd, Pennsylvania. My passion for interdisciplinary and practical studies has lead me from [Artificial Intelligence research](https://dl.acm.org/doi/10.5555/646145.678706) starting in 2002 at CU Boulder, to biology, to K-12 science and language teaching, and back to AI Data Science. I have completed the Data Science program at [Lambda School](https://lambdaschool.com/). 
 
