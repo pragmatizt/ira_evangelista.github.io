@@ -4,9 +4,8 @@ I am a data scientist, fiddle player and flute maker from Bala Cynwyd, Pennsylva
 
 I am currently studing Data Science at [Lambda School](https://lambdaschool.com/). I am interested in interdisciplinary projects that cross-over between best practice and organizational management, education and human development, economics and finance, health and heathcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics and language comprehension, international studies, mythology, history, traditional music, astronomy, cooking, woodworking, Shakespeare, Philosophy of Science, literature, digital security, asteroid mining, folk dancing, astrobiology, etc. Practical applications of data aboud.
 
-## Blogs
+## Blog
 [Wooden Information](https://medium.com/wooden-information/)  
-[Geoffrey Gordon Ashbrook](https://medium.com/@GeoffreyGordonAshbrook/)  
 
 ## Projects
 January 2020: [Medicine and Symptom Prediction Machine Learning](https://github.com/MedCabinet)  
