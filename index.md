@@ -1,4 +1,4 @@
-<img src="geoffrey_gordon_ashbrook_round.png" alt="Geoffrey Gordon Ashbrook">
+<img src="geoffrey_gordon_ashbrook_round.png" alt="Geoffrey Gordon Ashbrook" width="200" height="200">
 
 # Geoffrey Gordon Ashbrook
 
