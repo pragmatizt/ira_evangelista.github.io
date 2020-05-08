@@ -10,7 +10,7 @@ I am currently studing Data Science at [Lambda School](https://lambdaschool.com/
 ## Projects
 January 2020: [Medicine and Symptom Prediction Machine Learning](https://github.com/MedCabinet)  
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
-April 2020: [Emulator of LS8 CPU in Python](https://https://github.com/lineality/ls8_emulator)
+April 2020: [Emulator of LS8 CPU in Python](https://https://github.com/lineality/ls8_emulator)  
 January 2020: [Basic Perceptron Model Artificial Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)
 
 ## Articles
