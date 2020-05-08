@@ -22,4 +22,4 @@ October 2019: [Less Is More Explaining The Future using only the past](https://m
 ## Contact
 [Email](mailto:geoffreygordonashbrook@gmail.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  
 
-## [Resume](https://drive.google.com/file/d/18qPnJVi62dY8eXqDpzR11tnYrhdoKCLC/view?usp=sharing) [& Dark Mode Resume](https://drive.google.com/file/d/1xD0z4rXNndmzDVZY2A5xT3OFkYvK2tIq/view?usp=sharing)
+## [Resume](https://drive.google.com/file/d/1NIABvSyidXLDVFSSXoyhFW0w96u8GRo9/view?usp=sharing) [& Dark Mode Resume](https://drive.google.com/file/d/1xD0z4rXNndmzDVZY2A5xT3OFkYvK2tIq/view?usp=sharing)
