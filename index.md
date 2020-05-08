@@ -20,6 +20,6 @@ February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.r
 October 2019: [Less Is More Explaining The Future using only the past](https://medium.com/wooden-information/less-is-more-904427f568e0)
 
 ## Contact
-[Email](mailto:geoffreygordonashbrook@gmail.com)| [Twitter](https://twitter.com/GG_Ashbrook)| [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  
+[Email](mailto:geoffreygordonashbrook@gmail.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  
 
 ## [Resume](https://drive.google.com/file/d/18qPnJVi62dY8eXqDpzR11tnYrhdoKCLC/view?usp=sharing) [& Dark Mode Resume](https://drive.google.com/file/d/1xD0z4rXNndmzDVZY2A5xT3OFkYvK2tIq/view?usp=sharing)
