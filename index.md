@@ -13,7 +13,7 @@ I am interested in interdisciplinary projects that cross-over between best pract
 January 2020: [Medicine and Symptom Prediction Machine Learning](https://github.com/MedCabinet)  
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
 April 2020: [Emulator of LS8 CPU in Python](https://https://github.com/lineality/ls8_emulator)  
-April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)
+April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)  
 January 2020: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)
 
 
