@@ -14,15 +14,14 @@ January 2020: [Medicine and Symptom Prediction Machine Learning](https://github.
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
 April 2020: [Emulator of LS8 CPU in Python](https://https://github.com/lineality/ls8_emulator)  
 April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)  
+April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/lineality/Blind-Graph-Traversal)  
 January 2020: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)
-
 
 ## Articles
 February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
 October 2019: [Less Is More Explaining The Future - Using Only The Past](https://medium.com/wooden-information/less-is-more-904427f568e0)
 
 ## Contact
-[Email](mailto:geoffreygordonashbrook@gmail.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  
-
+[Email](mailto:geoffreygordonashbrook@gmail.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  | [Github](https://github.com/lineality/)
 
 ## [Resume](https://drive.google.com/file/d/1eJhXaEYvHz9q0zgZUHwME5xAIJ_ikEt9/view?usp=sharing) [& Dark Mode Resume](https://drive.google.com/file/d/1dPinVNTKtKMVVT8z0RIAhJi9AwZ4XbiG/view?usp=sharing)
