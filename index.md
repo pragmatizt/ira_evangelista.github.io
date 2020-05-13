@@ -24,4 +24,5 @@ October 2019: [Less Is More Explaining The Future - Using Only The Past](https:/
 ## Contact
 [Email](mailto:geoffreygordonashbrook@gmail.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  | [Github](https://github.com/lineality/)
 
+
 ## [Resume](https://drive.google.com/file/d/1n5m7MWhwqGt6iJZZ-Jsw-QB7TPWmtIaF/view?usp=sharing) [& Dark Mode Resume](https://drive.google.com/file/d/148HW0m6HWLfY_EMbbJQbfqoou2yWuf7N/view?usp=sharing)
