@@ -15,7 +15,7 @@ March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://med
 April 2020: [Emulator of LS8 CPU in Python](https://github.com/lineality/ls8_emulator)  
 April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)  
 April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/lineality/Blind-Graph-Traversal)  
-January 2020: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)
+Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)
 
 ## Articles
 February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
