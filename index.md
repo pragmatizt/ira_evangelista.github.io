@@ -19,7 +19,7 @@ Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://githu
 
 ## Articles
 February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
-October 2019: [Less Is More Explaining The Future - Using Only The Past](https://medium.com/wooden-information/less-is-more-904427f568e0)
+October 2019: [Less Is More: Explaining The Future - Using Only The Past](https://medium.com/wooden-information/less-is-more-904427f568e0)
 
 ## Contact
 [Email](mailto:geoffreygordonashbrook@gmail.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  | [Github](https://github.com/lineality/)
