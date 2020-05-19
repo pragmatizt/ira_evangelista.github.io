@@ -1,20 +1,28 @@
+<img src="geoffrey_gordon_ashbrook_round.png" alt="Geoffrey Gordon Ashbrook" width="200" height="200">
+
 # Geoffrey Gordon Ashbrook
 
-I am a data scientist, fiddle player and flute maker from Bala Cynwyd, Pennsylvania. My passion for interdisciplinary and practical studies has lead me from biology, to K-12 science and language teaching, to Data Science. 
+I am a data scientist, fiddle player and flute maker from Bala Cynwyd, Pennsylvania. My passion for interdisciplinary and practical studies has lead me from [Artificial Intelligence research](https://dl.acm.org/doi/10.5555/646145.678706) starting in 2002 at CU Boulder, to biology, to K-12 science and language teaching, and back to AI Data Science. I have completed the Data Science program at [Lambda School](https://lambdaschool.com/). 
 
-I am currently studing Data Science at [Lambda School](https://lambdaschool.com/). I am interested in many subjects, from best practice and organizational management, to education and human development, economics and finance, health and heathcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, international studies, mythology, history, traditional music, astronomy, cooking, woodworking, Shakespeare, Philosophy of Science, literature, asteroid mining, folk dancing, astrobiology, etc. Practical applications of data aboud.
+I am interested in interdisciplinary projects that cross-over between best practice and organizational management, education and human development, economics and finance, health and heathcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics and language comprehension, international studies, mythology, history, traditional music, astronomy, cooking, woodworking, Shakespeare, Philosophy of Science, literature, digital security, poetry, asteroid mining, folk dancing, astrobiology, etc. Practical applications of data aboud.
 
-## Blogs
+## Blog
 [Wooden Information](https://medium.com/wooden-information/)  
-[Geoffrey Gordon Ashbrook](https://medium.com/@GeoffreyGordonAshbrook/)  
 
 ## Projects
-September 2018: [Medicine and Symptom Prediction Machine Learning](https://)  
-March 2019: [Center for Advanced Defense Studies Sanctions Explorer Website](https://)  
-May 2018: [World Bank Indicator Data Interfacing](https://)  
+January 2020: [Medicine and Symptom Prediction Machine Learning](https://github.com/MedCabinet)  
+March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
+April 2020: [Emulator of LS8 CPU in Python](https://github.com/lineality/ls8_emulator)  
+April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/lineality/Blind-Graph-Traversal)  
+April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)  
+Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)
 
 ## Articles
-September 2018: [Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
+February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
+October 2019: [Less Is More: Explaining The Future - Using Only The Past](https://medium.com/wooden-information/less-is-more-904427f568e0)
 
 ## Contact
-[Email](mailto:geoffreygordonashbrook@gmail.com) \| [Twitter](https://twitter.com/GG_Ashbrook) \| [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  
+[Email](mailto:geoffreygordonashbrook@gmail.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  | [Github](https://github.com/lineality/)
+
+
+## [Resume](https://drive.google.com/file/d/1n5m7MWhwqGt6iJZZ-Jsw-QB7TPWmtIaF/view?usp=sharing) [& Dark Mode Resume](https://drive.google.com/file/d/148HW0m6HWLfY_EMbbJQbfqoou2yWuf7N/view?usp=sharing)
