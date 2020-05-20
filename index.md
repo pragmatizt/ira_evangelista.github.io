@@ -4,7 +4,7 @@
 
 I am a data scientist, fiddle player and flute maker from Bala Cynwyd, Pennsylvania. My passion for interdisciplinary and practical studies has lead me from [Artificial Intelligence research](https://dl.acm.org/doi/10.5555/646145.678706) starting in 2002 at CU Boulder, to biology, to K-12 science and language teaching, and back to AI Data Science. I have completed the Data Science program at [Lambda School](https://lambdaschool.com/). 
 
-I am interested in interdisciplinary projects that cross-over between best practice and organizational management, education and human development, economics and finance, health and heathcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics and language comprehension, international studies, mythology, history, traditional music, astronomy, cooking, woodworking, Shakespeare, Philosophy of Science, literature, digital security, poetry, asteroid mining, folk dancing, astrobiology, etc. Practical applications of data aboud.
+I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and heathcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics and language comprehension, international studies, mythology, history, traditional music, astronomy, cooking, woodworking, Shakespeare, Philosophy of Science, literature, digital security, poetry, asteroid mining, folk dancing, astrobiology, etc. Practical applications of data aboud.
 
 ## Blog
 [Wooden Information](https://medium.com/wooden-information/)  
