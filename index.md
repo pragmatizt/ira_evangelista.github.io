@@ -16,7 +16,6 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 - February 2020: [Center for Advanced Defense Studies - Nuclear Fuel Cycle]
 - April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
 - April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
-- September 2019: [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
 
 ## Articles
 - September 2019: [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
