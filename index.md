@@ -6,7 +6,7 @@ Before Data Science I honed my skills in sales, key account management, operatio
 
 I recently completed the Data Science program at [Lambda School](https://lambdaschool.com/). 
 
-My interests and hobbies include: economics, geopolitics, history, Dharmic & Eastern philosophies, hiking, scuba diving, and literature.  
+My interests and hobbies include: economics, geopolitics, history, Dharmic & Eastern philosophies, hiking, scuba diving, health, fitness, and literature.  
 
 ## Blog
 [Wooden Information](https://medium.com/wooden-information/)  
