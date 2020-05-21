@@ -19,8 +19,8 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 - September 2019: [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
 
 ## Articles
-February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
-October 2019: [Less Is More: Explaining The Future - Using Only The Past](https://medium.com/wooden-information/less-is-more-904427f568e0)
+- February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
+- September 2019: [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
 
 ## Contact
 [Email](mailto:evangelista.ira@gmail.com) | [Twitter](https://twitter.com/pragmatizt) | [LinkedIn](https://www.linkedin.com/in/ira-evangelista-13356b13/)  | [Github](https://github.com/pragmatizt/)
