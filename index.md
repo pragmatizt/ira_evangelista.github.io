@@ -13,11 +13,11 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 
 ## Projects
 - January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2)
-  *Contribution: Natural Language Process Modeling*
+ - Contribution: Natural Language Process Modeling*
 - February 2020: [Center for Advanced Defense Studies - Nuclear Fuel Cycle]
-April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
-April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
-September 2019: [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
+- April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
+- April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
+- September 2019: [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
 
 ## Articles
 February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
