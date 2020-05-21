@@ -12,16 +12,16 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 [Wooden Information](https://medium.com/wooden-information/)  
 
 ## Projects
-- January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2) | **Direct Contribution:** [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
-- February 2020: [Center for Advanced Defense Studies - Nuclear Fuel Cycle]
-- April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
-- April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
+- *January 2020:* [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2) | **Direct Contribution:** [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
+- *February 2020:* [Center for Advanced Defense Studies - Nuclear Fuel Cycle]
+- *April 2020:* [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
+- *April 2020:* [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
 
 ## Articles
-- September 2019: [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
+- *September 2019:* [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
 
 ## Tutorials
-- February 2020: [Spark Introduction Using Colab](https://colab.research.google.com/drive/1AnuR9z_6YQY1v-UytY6pzPmq2ls5kCHy?usp=sharing)
+- *February 2020:* [Spark Introduction Using Colab](https://colab.research.google.com/drive/1AnuR9z_6YQY1v-UytY6pzPmq2ls5kCHy?usp=sharing)
 
 ## Contact
 [Email](mailto:evangelista.ira@gmail.com) | [Twitter](https://twitter.com/pragmatizt) | [LinkedIn](https://www.linkedin.com/in/ira-evangelista-13356b13/)  | [Github](https://github.com/pragmatizt/)
