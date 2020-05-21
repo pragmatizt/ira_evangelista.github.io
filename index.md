@@ -12,7 +12,7 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 [Wooden Information](https://medium.com/wooden-information/)  
 
 ## Projects
-- January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2) | Contribution: [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
+- January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2) | **Direct Contribution:** [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
 - February 2020: [Center for Advanced Defense Studies - Nuclear Fuel Cycle]
 - April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
 - April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
