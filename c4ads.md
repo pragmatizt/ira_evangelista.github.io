@@ -1,4 +1,5 @@
-Nuclear Fuel Cycle Project
+## Nuclear Fuel Cycle Project <br>
+<br>
 Between January and February 2020, I had an opportunity to partake in a remote internship for The Center for Advanced Studies (C4ADS) with a group of three other Data Science students from Lambda School.  Due to privacy allowances and NDA requirements, I cannot dive into specifics of the project, but here is a broad strokes outline, approved for release.
 Based in Washington, D.C.  C4ADS is a nonprofit organization dedicated to providing data-driven analysis and evidence-based reporting on global conflict and transnational security issues.
 A build-on project, the Nuclear Fuel Cycle projects’ mission is to find companies that have the potential to be involved in the production of dual use precision materials that can be used in the nuclear fuel cycle. By dual use we mean the manufacturing of products that although might be listed as civilian use only, that could also be used for military purposes. Our job was to pore through these massive datasets to find any companies that are currently manufacturing, or have shown the capability to manufacture, precision engineered products (like centrifuges, for example) that could be utilized in the nuclear fuel cycle.
