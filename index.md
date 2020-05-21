@@ -12,9 +12,9 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 [Wooden Information](https://medium.com/wooden-information/)  
 
 ## Projects
-January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2)
+- January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2)
   *Contribution: Natural Language Process Modeling*
-March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
+- February 2020: [Center for Advanced Defense Studies - Nuclear Fuel Cycle]
 April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
 April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
 September 2019: [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
