@@ -13,7 +13,7 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 
 ## Projects
 January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2)
-&nbsp;&nbsp;&nbsp;&nbsp;Contribution: Natural Language Process Modeling*
+  *Contribution: Natural Language Process Modeling*
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
 April 2020: [Emulator of LS8 CPU in Python](https://github.com/lineality/ls8_emulator)  
 April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/lineality/Blind-Graph-Traversal)  
