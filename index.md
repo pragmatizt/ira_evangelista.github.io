@@ -6,7 +6,7 @@ Before Data Science I honed my skills in sales, key account management, operatio
 
 I recently completed the Data Science program at [Lambda School](https://lambdaschool.com/). 
 
-I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and heathcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics and language comprehension, international studies, mythology, history, traditional music, astronomy, cooking, woodworking, Shakespeare, Philosophy of Science, literature, digital security, poetry, asteroid mining, folk dancing, astrobiology, etc. Practical applications of data aboud.
+My interests and hobbies include: economics, geopolitics, history, Dharmic philosophy, Eastern philosophies, hiking, scuba diving, and literature.  
 
 ## Blog
 [Wooden Information](https://medium.com/wooden-information/)  
