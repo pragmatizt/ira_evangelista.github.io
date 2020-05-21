@@ -17,7 +17,7 @@ January 2020: [Medicine and Symptom Recommendation Machine Learning](https://git
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
 April 2020: [Emulator of LS8 CPU in Python](https://github.com/lineality/ls8_emulator)  
 April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
-April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)  
+April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)
 
 ## Articles
