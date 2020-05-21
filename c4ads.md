@@ -8,19 +8,19 @@ A build-on project, the Nuclear Fuel Cycle projects’ mission is to find compan
 <br>
 In the two month internship, we were able adopt new tools and frameworks quickly, build the infrastructure for the next batch of interns, and to achieve the goals as defined by the stakeholder.<br>
 
-## The Challenge <br>
+### The Challenge <br>
 <br>
 We encountered three main problems during the Labs project. <br>
-1.   	Steep Learning Curve:<br>
+**1. Steep Learning Curve:** <br>
 - 175 GB Data - The dataset is massive<br>
 - AWS - Had to get acclimated to a new platform.  Prior to this, we worked mainly off of Jupyter and Colab notebooks.<br>
 - Apache Spark – Spark was an entirely new framework for us.  Due to the sheer size of the dataset, a cluster-computing framework was the only feasible solution <br>
 - It’s in Russian – Lastly, the dataset was in Russian. <br>
-2.   	Redundant Features:<br>
-·       The dataset that we were working with also had a lot of features (173 originally)<br>
-3.   	Modeling Troubles (Out of Memory errors):<br>
-·       We would also run into problems with modeling via Spark.  We were able to successfully execute a Logistic Regression model, but had issues with other models.<br>
-## Solutions & Lessons Learned:<br>
+**2. Redundant Features:** <br>
+* The dataset that we were working with also had a lot of features (173 originally)<br>
+**3. Modeling Troubles (Out of Memory errors):** <br>
+* We would also run into problems with modeling via Spark.  We were able to successfully execute a Logistic Regression model, but had issues with other models.<br>
+### Solutions & Lessons Learned:<br>
 1.   	Rapid upskilling:<br>
 ·       Created a quick Spark Tutorial for next batch of interns<br>
 ·       Utilized available resources: Spark – The Definitive Guide & a Udemy course on Spark<br>
