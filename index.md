@@ -4,12 +4,9 @@
 
 Before Data Science I honed my skills in sales, key account management, operations, and entrepreneurship. These developed my “soft” abilities on how to share persuasive stories, work in teams, and understand the drivers behind a company’s business decisions. I studied Data Science to marry two of my great loves: storytelling; and the ability to gain insights through data. 
 
-I recently completed the Data Science program at [Lambda School](https://lambdaschool.com/). 
+I recently completed the Data Science program at [Lambda School](https://lambdaschool.com/). Prior to that, I co-founded in 2017 an urban farming startup in Manila (https://www.eaturbangreens.com).  Although I've since left the company, it is still in operation today.  That experience with hydroponic farming, and the idea that with better data we could maximize crop yield planted the seed for my love with data.  
 
-My interests and hobbies include: economics, geopolitics, history, Dharmic & Eastern philosophies, hiking, scuba diving, health, fitness, and literature.  
-
-## Blog
-[Wooden Information](https://medium.com/wooden-information/)  
+My interests and hobbies include: economics, geopolitics, history, Dharmic & Eastern philosophies, hiking, scuba diving, health, fitness, renewable energy, and literature.  
 
 ## Projects
 - *January 2020:* [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2) | **Direct Contribution:** [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
