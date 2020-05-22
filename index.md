@@ -8,14 +8,13 @@ I recently completed the Data Science program at [Lambda School](https://lambdas
 
 My interests and hobbies include: economics, geopolitics, history, Dharmic & Eastern philosophies, hiking, scuba diving, health, fitness, renewable energy, and literature.  
 
-## Projects
+## Projects & Articles
 - **October 2019:** [Global Deforestation Tracker](https://github.com/build-deforestation-application) | **Direct Contribution:** [Data Wrangling, Modeling, and Forecasting](https://github.com/pragmatizt/deforestation_app/tree/master/notebooks)
 - **January 2020:** [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2) | **Direct Contribution:** [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
-- **February 2020:** [Center for Advanced Defense Studies - Nuclear Fuel Cycle]
+- **February 2020:** [Center for Advanced Defense Studies - Nuclear Fuel Cycle](https://medium.com/@evangelista.ira/using-data-science-to-identify-russian-companies-involved-in-the-nuclear-fuel-cycle-78d47287c4e)
 - **April 2020:** [Efficient Blind Traversal of Graph (Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
 - **April 2020:** [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
 
-## Articles
 - **September 2019:** [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df)
 
 ## Tutorials
