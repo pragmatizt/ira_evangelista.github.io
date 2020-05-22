@@ -1,6 +1,6 @@
 <img src="profilepic1.png" alt="Ira Evangelista" width="200" height="200">
 
-# Ira Evangelista
+# Ira Evangelista   |   [Resume](https://drive.google.com/open?id=1CynyUx49dnAo19NM1iW4SGZyavUZc4RP)
 
 Before Data Science I honed my skills in sales, key account management, operations, and entrepreneurship. These developed my “soft” abilities on how to share persuasive stories, work in teams, and understand the drivers behind a company’s business decisions. I studied Data Science to marry two of my great loves: storytelling; and the ability to gain insights through data. 
 
