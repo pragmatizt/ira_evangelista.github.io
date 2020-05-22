@@ -11,8 +11,8 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 ## Projects & Articles
 *(not in chronological order)*
 - **Jan & Feb 2020:** Remote Internship - [Center for Advanced Defense Studies - Nuclear Fuel Cycle](https://medium.com/@evangelista.ira/using-data-science-to-identify-russian-companies-involved-in-the-nuclear-fuel-cycle-78d47287c4e) *(article)*
-- **Jan 2020:** [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2) | **Direct Contribution:** [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
-- **Oct 2019:** [Global Deforestation Tracker](https://github.com/build-deforestation-application) | **Direct Contribution:** [Data Wrangling, Modeling, and Forecasting](https://github.com/pragmatizt/deforestation_app/tree/master/notebooks)
+- **Jan 2020:** [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2), **Direct Contribution:** [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
+- **Oct 2019:** [Global Deforestation Tracker](https://github.com/build-deforestation-application), **Direct Contribution:** [Data Wrangling, Modeling, and Forecasting](https://github.com/pragmatizt/deforestation_app/tree/master/notebooks)
 - **Sept 2019:** [EDA and Prediction on Solar Panel Installations in the USA](https://medium.com/@evangelista.ira/the-state-of-solar-a-bright-future-cf98eeb6b8df) *(article)*
 - **Apr 2020:** [Efficient Blind Traversal of Graph (Data Structure)](https://github.com/pragmatizt/Blind-Graph-Traversal)  
 - **Apr 2020:** [Basic Blockchain Structure From Scratch in Python](https://github.com/pragmatizt/Blockchain-Challenge)  
