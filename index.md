@@ -4,7 +4,7 @@
 
 Before Data Science I honed my skills in sales, key account management, operations, and entrepreneurship. These developed my “soft” abilities on how to share persuasive stories, work in teams, and understand the drivers behind a company’s business decisions. I studied Data Science to marry two of my great loves: storytelling; and the ability to gain insights through data. 
 
-I recently completed the Data Science program at [Lambda School](https://lambdaschool.com/). Prior to that, I co-founded in 2017 an [urban farming startup in Manila](https://www.eaturbangreens.com).  The company is still in operation today.  That experience with hydroponic farming opened my eyes to the idea that with better data we could optimize the lighting, water levels, temperature, and nutrient levels of the crops to maximize yield.  This planted the seed for my interest in the field of data science.  
+I recently completed the Data Science program at [Lambda School](https://lambdaschool.com/). Prior to that, I co-founded in 2017 an [urban farming startup in Manila](https://www.eaturbangreens.com).  The company is still in operation today.  That experience with hydroponic farming opened my eyes to the idea that with better data we could optimize the lighting, water, temperature, and nutrient levels of crops to maximize yield.  This planted the seed for my interest in the field of data science.  
 
 My interests and hobbies include: economics, geopolitics, history, Dharmic & Eastern philosophies, Stoicism, hiking, scuba diving, health, fitness, renewable energy, and literature.  
 
@@ -21,7 +21,7 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 - **Feb 2020:** [Spark Introduction Using Colab](https://colab.research.google.com/drive/1AnuR9z_6YQY1v-UytY6pzPmq2ls5kCHy?usp=sharing)
 
 ## Internships, Volunteering, Hobbies:
-- **Feb 2020 - Present:** [Loggerhead Marinelife Center](https://marinelife.org/) - Loggerhead Marinelife Center is a nonprofit education and conservation facility dedicated to the conservation and preservation of marine life, including threatened and endangered sea turtles.
+- **Feb 2020 - Present:** [Loggerhead Marinelife Center](https://marinelife.org/) - LMC is an education and conservation facility dedicated to the conservation and preservation of marine life, including threatened and endangered sea turtles.
 - **Feb 2020 - Apr 2020:** [Buskowitz Solar Energy](https://www.buskowitz.com/) - I had a few months to spare before my return trip from Manila to the United States.  This was my introduction to the renewable energy industry, which has always been an interest of mine.
 - **Jan 2017 - Present:** Scuba Dive Certified - notable locations include a giant [WW2-era Imperial Japanese Oil Tanker in Palawan](https://www.youtube.com/watch?v=JQc_G6ATRF8), Verde Island, and Anilao, Batangas.
 
