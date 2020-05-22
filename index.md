@@ -9,7 +9,7 @@ I recently completed the Data Science program at [Lambda School](https://lambdas
 My interests and hobbies include: economics, geopolitics, history, Dharmic & Eastern philosophies, Stoicism, hiking, scuba diving, health, fitness, renewable energy, and literature.  
 
 ## Projects & Articles
-(Not in chronological order)
+*(not in chronological order)*
 - **Jan & Feb 2020:** Remote Internship - [Center for Advanced Defense Studies - Nuclear Fuel Cycle](https://medium.com/@evangelista.ira/using-data-science-to-identify-russian-companies-involved-in-the-nuclear-fuel-cycle-78d47287c4e) *(article)*
 - **Jan 2020:** [Medicine and Symptom Recommendation Machine Learning](https://github.com/Medical-Cabinet-2) | **Direct Contribution:** [NLP Modeling](https://github.com/Medical-Cabinet-2/Data-Science/blob/master/NLP_model/nlp_model_comparison.ipynb)
 - **Oct 2019:** [Global Deforestation Tracker](https://github.com/build-deforestation-application) | **Direct Contribution:** [Data Wrangling, Modeling, and Forecasting](https://github.com/pragmatizt/deforestation_app/tree/master/notebooks)
@@ -21,7 +21,7 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 - **Feb 2020:** [Spark Introduction Using Colab](https://colab.research.google.com/drive/1AnuR9z_6YQY1v-UytY6pzPmq2ls5kCHy?usp=sharing)
 
 ## Internships, Volunteering, Hobbies:
-- **Feb 2020 - Present:** [Loggerhead Marinelife Center](https://marinelife.org/)
+- **Feb 2020 - Present:** [Loggerhead Marinelife Center](https://marinelife.org/) - Loggerhead Marinelife Center is a nonprofit education and conservation facility dedicated to the conservation and preservation of marine life, including threatened and endangered sea turtles.
 - **Feb 2020 - Apr 2020:** [Buskowitz Solar Energy](https://www.buskowitz.com/) - I had a few months to spare before my return trip from Manila to the United States.  This was my introduction to the renewable energy industry, which has always been an interest of mine.
 - **Jan 2017 - Present:** Scuba Dive Certified - notable locations include a giant [WW2-era Imperial Japanese Oil Tanker in Palawan](https://www.youtube.com/watch?v=JQc_G6ATRF8), Verde Island, and Anilao, Batangas.
 
