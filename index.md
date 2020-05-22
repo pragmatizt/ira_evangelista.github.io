@@ -21,8 +21,8 @@ My interests and hobbies include: economics, geopolitics, history, Dharmic & Eas
 - **Feb 2020:** [Spark Introduction Using Colab](https://colab.research.google.com/drive/1AnuR9z_6YQY1v-UytY6pzPmq2ls5kCHy?usp=sharing)
 
 ## Internships, Volunteering, Hobbies:
-- **Feb 2020 - Present:** [Loggerhead Marinelife Center](https://marinelife.org/) - LMC is an education and conservation facility dedicated to the conservation and preservation of marine life, including threatened and endangered sea turtles.
-- **Feb 2020 - Apr 2020:** [Buskowitz Solar Energy](https://www.buskowitz.com/) - I had a few months to spare before my return trip from Manila to the United States.  This was my introduction to the renewable energy industry, which has always been an interest of mine.
+- **Feb 2020 - Present:** [Loggerhead Marinelife Center (LMC)](https://marinelife.org/) - LMC is an education and conservation facility dedicated to the conservation and preservation of marine life, including threatened and endangered sea turtles.
+- **Feb 2020 - Apr 2020:** [Buskowitz Solar Energy](https://www.buskowitz.com/) - I had a few months to spare before my return trip to the United States, so I decided to spend it by interning for one of the largest solar energy companies in the Philippines.  This was my introduction to the renewable energy industry, which has always been an interest of mine.
 - **Jan 2017 - Present:** Scuba Dive Certified - notable locations include a giant [WW2-era Imperial Japanese Oil Tanker in Palawan](https://www.youtube.com/watch?v=JQc_G6ATRF8), Verde Island, and Anilao, Batangas.
 
 ## Contact
