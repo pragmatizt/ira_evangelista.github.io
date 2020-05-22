@@ -1,4 +1,4 @@
-<img src="circle-cropped.png" alt="Ira Evangelista" width="200" height="200">
+<img src="profile_circle.png" alt="Ira Evangelista" width="200" height="200">
 
 # Ira Evangelista   |   [Resume](https://drive.google.com/open?id=1CynyUx49dnAo19NM1iW4SGZyavUZc4RP)
 
