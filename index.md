@@ -4,9 +4,9 @@
 
 Before Data Science I honed my skills in sales, key account management, operations, and entrepreneurship. These developed my “soft” abilities on how to share persuasive stories, work in teams, and understand the drivers behind a company’s business decisions. I studied Data Science to marry two of my great loves: storytelling; and the ability to gain insights through data. 
 
-I have a Bachelors Degree in Economics from [JMU](https://www.jmu.edu), and just recently completed the Data Science program at [Lambda School](https://lambdaschool.com/). Prior to Lambda School, I co-founded in 2017 an [urban farming startup in Manila](https://www.eaturbangreens.com).  The company is still in operation today.  That experience with hydroponic farming opened my eyes to the idea that with better data we could optimize the lighting, water, temperature, and nutrient levels of crops to maximize yield.  This planted the seed for my interest in the field of data science.  
+I have a Bachelors Degree in Economics from [JMU](https://www.jmu.edu), and just recently completed the Data Science program at [Lambda School](https://lambdaschool.com/). Prior to Lambda School, I co-founded in 2017 an [urban farming startup while living in Manila](https://www.eaturbangreens.com).  The company is still in operation today.  That experience with hydroponic farming opened my eyes to the idea that with better data we could optimize the lighting, water, temperature, and nutrient levels of crops to maximize yield.  This planted the seed for my interest in the field of data science.  
 
-My interests and hobbies include: developmental economics, geopolitics, history, Dharmic & Eastern philosophies, Stoicism, hiking, scuba diving, health, fitness, renewable energy, writing, and literature.  
+My interests include: developmental economics, geopolitics, history, Dharmic & Eastern philosophies, Stoicism, hiking, scuba diving, health, fitness, renewable energy, writing, and literature.  
 
 ## Data Science Projects & Articles
 *(not in chronological order)*
